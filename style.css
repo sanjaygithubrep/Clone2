@@ -1,0 +1,112 @@
+*{
+    margin:0;
+    padding:0;
+}
+.row1{
+    display: flex;
+    height:15vh;
+    background-color: darkblue;
+    color: white;
+}
+.abox{
+    width:60%;
+}
+.abox h1{
+    margin-left: 100px;
+    margin-top:20px;
+    font-size: 50px;
+}
+.bbox{
+    width:40%;
+    display: inline-block;
+}
+.search1{
+    position: relative;
+    bottom:-20px;
+    width:200px;
+    height:20px;
+    font-size: 18px;
+}
+.search2{
+    position: relative;
+    left:250px;
+    width:200px;
+    height:20px;
+    font-size: 18px;
+    bottom:24px;
+}
+.btn1{
+    position: relative;
+    left:260px;
+    width:3vw;
+    height:3vh;
+    bottom:24px;
+    background-color: aqua;
+}
+.row2{
+    width:100%;
+    background-color: lightblue;
+    display: flex;
+    height: 80vh;
+}
+.cbox{
+    width:70%;
+}
+.cbox h1{
+    font-size: 30px;
+    margin:20px;
+}
+.cbox h6{
+    font-size: 20px;
+    margin:20px;
+}
+.dbox{
+    width:30%;
+    
+}
+.search3{
+    width:13vw;
+    height:4vh;
+    margin-top: 10px;
+    font-size: larger;
+    
+}
+.search4{
+    width:13vw;
+    height:4vh;
+    font-size: larger;
+
+}
+.search5{
+    width:26.5vw;
+    height:4vh;
+    margin-top: 10px;
+    font-size: larger;
+
+}
+.search6{
+    width:26.5vw;
+    height:4vh;
+    margin-top: 10px;
+    font-size: larger;
+}
+.search7{
+    width:26.5vw;
+    height:4vh;
+    margin-top: 10px;
+    font-size: larger;
+
+}
+h4{
+    margin-top:20px;
+}
+p{
+    margin-top: 20px;
+}
+.btn2{
+    margin-top: 5px;
+    width:10vw;
+    height:5vh;
+    background-color: green;
+    color:white;
+}
